@@ -9,7 +9,8 @@ Stanza is a Python-based NLP toolkit developed by a group of researchers at Stan
 
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been stagedc |
+| Topic | A Python Natural Language Processing Toolkit for Many Human Languages |
+| Challenge | Show file differences that haven't been stagedc |
+| Feature method | Show file differences that haven't been stagedc |
 
 
