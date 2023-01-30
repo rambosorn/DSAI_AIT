@@ -10,7 +10,7 @@ Stanza is a Python-based NLP toolkit developed by a group of researchers at Stan
 | Command | Description |
 | --- | --- |
 | Topic | Stanza: A Python Natural Language Processing Toolkit for Many Human Languages |
-| Challenge |The lack of easy-to-use and accessible NLP libraries for different languages and domains.The need for faster and more efficient NLP models for large-scale text processing. The requirement for more flexible and extensible NLP toolkits that can be easily customized for different NLP tasks and domains. The need for NLP toolkits that are built on top of modern machine learning frameworks, such as PyTorch, to leverage the latest developments in deep learning and other NLP techniques. |
+| Challenge |* The lack of easy-to-use and accessible NLP libraries for different languages and domains.* The need for faster and more efficient NLP models for large-scale text processing. * The requirement for more flexible and extensible NLP toolkits that can be easily customized for different NLP tasks and domains. * The need for NLP toolkits that are built on top of modern machine learning frameworks, such as PyTorch, to leverage the latest developments in deep learning and other NLP techniques. |
 | Feature method | Show file differences that haven't been stagedc |
 | Limitation | Stanza not being state-of-the-art in every NLP task, limited language coverage, high computational resource requirements, and potential performance issues with small or domain-specific data. |
 | Conclusion & Future work | Show file differences that haven't been stagedc |
