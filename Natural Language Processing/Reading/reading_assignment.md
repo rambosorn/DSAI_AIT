@@ -1,4 +1,4 @@
-# Papper tittle: Stanza: A Python Natural Language Processing Toolkit for Many Human Languages
+# Stanza: A Python Natural Language Processing Toolkit for Many Human Languages
 
 #### paper link:https://arxiv.org/abs/2003.07082
 #### github: https://github.com/stanfordnlp/stanza
