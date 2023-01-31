@@ -29,7 +29,7 @@ import stanza
 stanza.download("en")
 nlp = stanza.Pipeline("en")
 
-*This will download the English models and set up a pipeline to process text in English. You can replace "en" with any other supported language code to process text in a different language.
+This will download the English models and set up a pipeline to process text in English. You can replace "en" with any other supported language code to process text in a different language.
 
 ### Language Support
 Afrikaans, Albanian, Arabic, Armenian, Bengali, Bosnian, Bulgarian, Burmese, Cantonese, Catalan, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, Galician, Georgian, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Korean, Kurdish, Latvian, Lithuanian, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhalese, Slovak, Slovenian, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uzbek, Vietnamese, and Welsh
