@@ -25,9 +25,9 @@ pip install stanza
 
 To set up the environment and download necessary models, use the following code:
 
-import stanza
-stanza.download("en")
-nlp = stanza.Pipeline("en")
+ import stanza
+ stanza.download("en")
+ nlp = stanza.Pipeline("en")
 
 This will download the English models and set up a pipeline to process text in English. You can replace "en" with any other supported language code to process text in a different language.
 
