@@ -33,5 +33,10 @@ Finally, the parser outputs the relationships between words in the sentence, suc
 
 
 ### Conclution and Limitation
+Developed a fast and accurate dependency parser using neural networks. The parser combines the strengths of both graph-based and transition-based methods and outperforms existing state-of-the-art methods in terms of parsing speed and accuracy. The parser is trained on a large corpus of annotated sentences and its performance is evaluated on several benchmark datasets.
+
+The limitations of the parser include its reliance on a large annotated training corpus and the fact that it may not perform well on languages or domains with very different linguistic characteristics from those in the training data. Additionally, the parser is a statistical model and may not always produce the most logically or semantically correct parse trees, particularly in cases where the sentence contains ambiguity or complexity.
+
+
 
 
