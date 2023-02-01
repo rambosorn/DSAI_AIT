@@ -7,11 +7,11 @@ A new approach to dependency parsing in natural language processing using neural
 Recent advances in deep learning and the success of neural networks in various natural language processing tasks. Neural networks have shown promising results in many NLP tasks, such as sentiment analysis, named entity recognition, and machine translation. The authors saw the potential of using neural networks to address the challenges of dependency parsing, and aimed to develop a new approach that could be fast and accurate. The authors leveraged the strengths of convolutional and recurrent neural networks to build a parser that can handle complex and ambiguous sentences, and that can make predictions about the relationships between words in a sentence. The goal was to develop a new and effective solution to the challenge of dependency parsing that could take advantage of the advances in deep learning.
 
 ### Related work
-### Graph-based methods:
+##### Graph-based methods:
     - Construct a graph representation of the sentence
     - Nodes represent words, edges represent relationships between words
     - Slow and memory-intensive
-### Transition-based methods:
+##### Transition-based methods:
     - Dynamically construct the parse tree as a sequence of operations
     - Faster and requires less memory
     - Less accurate than graph-based methods
