@@ -22,7 +22,7 @@ Recent advances in deep learning and the success of neural networks in various n
 ### Result
 A Fast and Accurate Dependency Parser using Neural Networks approach to dependency parsing using neural networks is effective. The authors evaluate their parser on several benchmark datasets and show that it outperforms existing methods in terms of parsing speed and accuracy. The parser is several times faster than existing state-of-the-art methods while still achieving comparable or better accuracy. The results suggest that the neural network-based approach to dependency parsing presented in the paper is a promising solution to the challenge of dependency parsing. This approach has the potential for further improvement and could be a valuable tool for natural language processing tasks that require understanding the relationships between words in a sentence.
 
-**Example**
+***Example***
 Consider the sentence "The cat chased the mouse." The goal of the parser is to identify the relationships between the words in the sentence, such as which words are the subject, object, and verb.
 
 The parser first inputs the sentence and extracts features using a convolutional neural network (CNN). The CNN scans the sentence to identify important patterns and relationships between words.
@@ -31,7 +31,6 @@ Next, the parser uses a recurrent neural network (RNN) to make predictions about
 
 Finally, the parser outputs the relationships between words in the sentence, such as "The cat" is the subject and "the mouse" is the object. This information can then be used for a variety of natural language processing tasks, such as semantic analysis, question answering, and machine translation.
 
-### Method
 
 ### Conclution and Limitation
 
