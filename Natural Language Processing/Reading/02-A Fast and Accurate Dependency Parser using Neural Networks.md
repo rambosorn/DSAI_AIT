@@ -7,7 +7,17 @@ A new approach to dependency parsing in natural language processing using neural
 Recent advances in deep learning and the success of neural networks in various natural language processing tasks. Neural networks have shown promising results in many NLP tasks, such as sentiment analysis, named entity recognition, and machine translation. The authors saw the potential of using neural networks to address the challenges of dependency parsing, and aimed to develop a new approach that could be fast and accurate. The authors leveraged the strengths of convolutional and recurrent neural networks to build a parser that can handle complex and ambiguous sentences, and that can make predictions about the relationships between words in a sentence. The goal was to develop a new and effective solution to the challenge of dependency parsing that could take advantage of the advances in deep learning.
 
 ### Related work
-A Fast and Accurate Dependency Parser using Neural Networks" includes previous approaches to dependency parsing, such as graph-based methods and transition-based methods. Graph-based methods are slow and memory-intensive, while transition-based methods are faster but less accurate. The authors propose a new approach that combines the strengths of both methods and uses a combination of convolutional and recurrent neural networks to build a fast and accurate parser. This parser outperforms existing state-of-the-art methods in terms of speed and accuracy.
+Graph-based methods:
+  - Construct a graph representation of the sentence
+  - Nodes represent words, edges represent relationships between words
+  - Slow and memory-intensive
+Transition-based methods:
+  - Dynamically construct the parse tree as a sequence of operations
+  - Faster and requires less memory
+  - Less accurate than graph-based methods
+  - The proposed parser combines strengths of both graph-based and transition-based methods
+- Uses a combination of convolutional and recurrent neural networks
+- Outperforms existing state-of-the-art methods in terms of speed and accurac
 
 ### Result
 A Fast and Accurate Dependency Parser using Neural Networks approach to dependency parsing using neural networks is effective. The authors evaluate their parser on several benchmark datasets and show that it outperforms existing methods in terms of parsing speed and accuracy. The parser is several times faster than existing state-of-the-art methods while still achieving comparable or better accuracy. The results suggest that the neural network-based approach to dependency parsing presented in the paper is a promising solution to the challenge of dependency parsing. This approach has the potential for further improvement and could be a valuable tool for natural language processing tasks that require understanding the relationships between words in a sentence.
